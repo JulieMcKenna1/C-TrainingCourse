@@ -1,0 +1,13 @@
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.exe
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.deps.json
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.runtimeconfig.json
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.runtimeconfig.dev.json
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.dll
+C:\Users\jmckenna\Desktop\Code\C# Course\bin\Debug\netcoreapp3.1\C# Course.pdb
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.csprojAssemblyReference.cache
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.AssemblyInfoInputs.cache
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.AssemblyInfo.cs
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.csproj.CoreCompileInputs.cache
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.dll
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.pdb
+C:\Users\jmckenna\Desktop\Code\C# Course\obj\Debug\netcoreapp3.1\C# Course.genruntimeconfig.cache
